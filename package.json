@@ -1,5 +1,5 @@
 {
-  "name": "app-review-to-slack",
+  "name": "app-reviews-to-slack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
