@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-npm install reviews-to-slack
+npm install app-reviews-to-slack
 ```
 
 ## Usage
