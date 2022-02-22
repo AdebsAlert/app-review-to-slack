@@ -2,7 +2,7 @@
   "name": "app-reviews-to-slack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "node dist/test.js",
     "build-ts": "tsc"
