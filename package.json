@@ -1,6 +1,6 @@
 {
   "name": "app-reviews-to-slack",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -8,12 +8,21 @@
     "test": "node dist/test.js",
     "build-ts": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "reviews",
+    "slack",
+    "app store",
+    "typescript"
+  ],
+  "author": "Adebayo Mustafa <adebsalert@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.25.0",
     "cheerio": "^1.0.0-rc.10",
     "rss-watcher": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdebsAlert/app-review-to-slack"
   }
 }
